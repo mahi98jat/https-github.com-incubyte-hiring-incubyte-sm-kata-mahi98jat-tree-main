@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Incubyte Salary Management API",
+  "description": "A backend API for managing employee salaries, built with Fastify, TypeScript, and SQLite. This project follows a strict TDD workflow.",
+  "requestFramePermissions": []
+}
